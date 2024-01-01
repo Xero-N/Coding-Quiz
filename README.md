@@ -31,3 +31,7 @@ Test your coding knowledge with this simple quiz app!
 
 ## HighScore Page
 ![HighScore Page](<README images/Highscore.png>)
+
+## Deployed
+
+https://xero-n.github.io/Coding-Quiz/
